@@ -38,7 +38,7 @@ Flags:
 ### Using go install
 
 ```
-go install https://github.com/vitorfhc/spammer
+go install github.com/vitorfhc/spammer
 spammer -h
 ```
 
